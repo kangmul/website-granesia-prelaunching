@@ -1,0 +1,22 @@
+[23-Mar-2015 10:21:51 Asia/Jakarta] PHP Warning:  include(db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 2
+[23-Mar-2015 10:21:51 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 2
+[23-Mar-2015 10:21:51 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 6
+[23-Mar-2015 10:21:51 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 6
+[23-Mar-2015 14:32:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 12
+[23-Mar-2015 14:33:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 12
+[23-Mar-2015 14:33:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 12
+[23-Mar-2015 14:33:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 12
+[23-Mar-2015 14:33:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_DNUMBER in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 6
+[23-Mar-2015 14:33:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_DNUMBER in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 6
+[23-Mar-2015 14:41:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 11
+[23-Mar-2015 14:41:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 11
+[23-Mar-2015 14:41:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 11
+[23-Mar-2015 14:41:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 11
+[23-Mar-2015 14:41:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 11
+[23-Mar-2015 14:41:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 11
+[23-Mar-2015 14:43:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 11
+[23-Mar-2015 14:43:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 11
+[23-Mar-2015 14:43:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 11
+[23-Mar-2015 14:43:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 11
+[23-Mar-2015 15:12:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 6
+[23-Mar-2015 15:18:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/granesia/public_html/admin/app/slide_show/slideshow_form_view.php on line 3

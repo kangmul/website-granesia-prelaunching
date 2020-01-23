@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<script src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/mixpanel-2.js" async="" type="text/javascript"></script><script src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/ga.js" async="" type="text/javascript"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"8e944bd22a","applicationID":"3742871","transactionName":"IQtXRkUMVA9QRktCRg0QUEJETEsLWkM=","queueTime":5,"applicationTime":141,"agentToken":null,"agent":"js-agent.newrelic.com/nr-412.min.js","ttGuid":"fbb9d23c1d276534"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgQEVVdaGwAHUFNaAAA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){try{u?u-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(d){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(c){"stack"in c&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,c="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(c);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,c=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var c=e(o);c&&(r.txSize=c)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var d=0;u>d;d++)n.addEventListener(s[d],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,c="addEventListener",d="attachEvent",f=(""+location).split("?")[0],p=e.exports={offset:i(),origin:f,features:[]};u[c]?(u[c]("DOMContentLoaded",o,!1),s[c]("load",n,!1)):(u[d]("onreadystatechange",r),s[d]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),c=this,d=r&&r(a,c)||{}}catch(f){i([f,"",[a,c,s],d])}o(e+"start",[a,c,s],d);try{return n=t.apply(c,a)}catch(p){throw o(e+"err",[a,c,p],d),p}finally{o(e+"end",[a,c,n],d)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,c="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,c?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<title>Julien Charette : Fetch and render events from MySQL to FullCalendar.js</title>
+<meta content="A protip by juliencharette about fullcalendar.js, json, mysql, and javascript." name="description">
+<meta content="A protip by juliencharette about fullcalendar.js, json, mysql, and javascript." property="og:description">
+<meta content="https://coderwall-assets-0.s3.amazonaws.com/uploads/user/avatar/68469/Julien-Profile.jpg" property="og:image">
+<meta content="@coderwall" property="twitter:site">
+<meta content="summary" property="twitter:card">
+<meta content="Fetch and render events from MySQL to FullCalendar.js" property="twitter:title">
+<meta content="https://coderwall.com/p/tr64xg" property="twitter:url">
+<meta content="A protip by juliencharette about fullcalendar.js, json, mysql, and javascript." property="twitter:description">
+<meta content="347206214" property="twitter:creator:id">
+<link href="https://d3levm2kxut31z.cloudfront.net/assets/favicon-25872357e26fa7dcbd14232798c9c1aa.png" rel="shortcut icon" type="image/x-icon">
+<link href="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/application-8f9977c030bc89b71b3f7e4e95926615.css" media="screen" rel="stylesheet" type="text/css">
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-797907-8']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+
+    <!-- start Mixpanel -->
+    <script type="text/javascript">(function (e, b) {
+        if (!b.__SV) {
+            var a, f, i, g;
+            window.mixpanel = b;
+            a = e.createElement("script");
+            a.type = "text/javascript";
+            a.async = !0;
+            a.src = ("https:" === e.location.protocol ? "https:" : "http:") + '//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';
+            f = e.getElementsByTagName("script")[0];
+            f.parentNode.insertBefore(a, f);
+            b._i = [];
+            b.init = function (a, e, d) {
+                function f(b, h) {
+                    var a = h.split(".");
+                    2 == a.length && (b = b[a[0]], h = a[1]);
+                    b[h] = function () {
+                        b.push([h].concat(Array.prototype.slice.call(arguments, 0)))
+                    }
+                }
+
+                var c = b;
+                "undefined" !== typeof d ? c = b[d] = [] : d = "mixpanel";
+                c.people = c.people || [];
+                c.toString = function (b) {
+                    var a = "mixpanel";
+                    "mixpanel" !== d && (a += "." + d);
+                    b || (a += " (stub)");
+                    return a
+                };
+                c.people.toString = function () {
+                    return c.toString(1) + ".people (stub)"
+                };
+                i = "disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment".split(" ");
+                for (g = 0; g < i.length; g++)f(c, i[g]);
+                b._i.push([a, e, d])
+            };
+            b.__SV = 1.2
+        }
+    })(document, window.mixpanel || []);
+    mixpanel.init("3698c19fe4d7e94568a3b7de32667644", {
+        'track_pageview': true,
+        'debug': true,
+        'verbose': true
+    });
+    </script><!-- end Mixpanel -->
+
+
+<link href="https://coderwall.com/p/tr64xg" rel="canonical">
+<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0" name="viewport">
+
+<meta content="authenticity_token" name="csrf-param">
+<meta content="4PSAXKcrFn1s5EoAS+GGHszVr5T4v7p/m02EWBLAyiA=" name="csrf-token">
+</head>
+<body class="protip-single">
+<div class="bg-primary" data-dismissable="announcement" style="display:none">
+  <div class="container">
+    <div class="row">
+      <div class="announcement col-md-12">
+        <p class="text-center">
+          <img src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/inverse2x.png" class="asm-brand">
+          Coderwall is an open product on Assembly so now you can help build it!
+          <a href="https://assembly.com/coderwall/chat" target="_blank"> Jump in and get started.</a>
+          <a class="js-dismiss close" href="#close">x</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<header id="masthead"><div class="inside-masthead cf"><div class="mobile-panel cf"><a href="https://coderwall.com/" class="logo"><span>coderwall</span></a><a class="menu-btn"></a></div><a class="tee-ribbon track" data-action="clicked tee" href="http://newrelic.com/sp/coderwall?utm_source=CWAL&amp;utm_medium=promotion&amp;utm_content=coderwall&amp;utm_campaign=coderwall&amp;mpc=PM-CWAL-web-Signup-100-coderwall-shirtpromo"></a><nav id="nav"><ul><li><a href="https://coderwall.com/">Protips</a></li><li><a href="https://coderwall.com/jobs">Job Board</a></li><li><a href="https://coderwall.com/signin">Sign In</a></li><li><a href="https://coderwall.com/signin">Register</a></li></ul></nav></div></header>
+<canvas class="blur" src="https://d3levm2kxut31z.cloudfront.net/assets/locations/Canada-1abf12bcbc38af502e954695b2b2fa5f.jpg"></canvas>
+<div id="x-active-preview-pane">
+<div class="side-conversion-alert hide">
+<p>Where developers come to connect, share, build and be inspired.</p>
+<a class="convert-signup track" data-action="view homepage" data-from="convert button on protip" href="https://coderwall.com/">Join Coderwall</a>
+</div>
+<div class="inside cf x-protip-pane">
+<div class="cf fullpage protip-single tip-container x-protip-content" id="x-protip">
+<aside class="tip-sidebar">
+<div class="user-box">
+<a class="avatar" data-action="view user profile" data-from="protip author avatar on top" data-properties="{&quot;mode&quot;:&quot;fullpage&quot;}" href="https://coderwall.com/juliencharette">
+<img alt="Julien-profile" class="avatar" src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/Julien-Profile.jpg">
+</a>
+<ul class="user-team">
+<li class="user">
+by
+<a class="track" data-action="view user profile" data-from="protip author name on top" data-properties="{&quot;mode&quot;:&quot;fullpage&quot;}" href="https://coderwall.com/juliencharette">
+Julien Charette
+</a>
+</li>
+</ul>
+<p class="bio">
+
+</p>
+<ul class="side-bar-list">
+<li class="username">
+<a class="name track" data-action="view user profile" data-from="protip author name(follow)" data-properties="{&quot;mode&quot;:&quot;fullpage&quot;}" href="https://coderwall.com/juliencharette">juliencharette</a>
+<a href="https://coderwall.com/users/juliencharette/follow" class="follow" data-follow-type="Users" data-method="post" data-remote="true" data-value="juliencharette" rel="nofollow"></a>
+</li>
+</ul>
+</div>
+<div class="side-btm">
+<h3>Networks</h3>
+<ul class="side-bar-list side-bar-networks">
+<li style="border-color:#CEEE75">
+<a class="name" href="https://coderwall.com/n/javascript">javascript</a>
+<a href="https://coderwall.com/n/javascript/join" class="follow javascript" data-follow-type="Networks" data-method="post" data-remote="true" data-value="javascript" rel="nofollow"></a>
+</li>
+<li style="border-color:#962CB1">
+<a class="name" href="https://coderwall.com/n/mysql">mysql</a>
+<a href="https://coderwall.com/n/mysql/join" class="follow mysql" data-follow-type="Networks" data-method="post" data-remote="true" data-value="mysql" rel="nofollow"></a>
+</li>
+</ul>
+<ul class="admin-links">
+<li>
+<a href="https://coderwall.com/p/tr64xg/report_inappropriate" class=" user-flag" data-method="post" data-remote="true" rel="nofollow"></a>
+</li>
+</ul>
+<div class="custom-image featured-team">
+<h3>Featured team</h3>
+<a href="https://coderwall.com/team/sofi-inc" class="team-box" data-action="view team jobs" data-from="job on protip" data-properties="{&quot;author's team&quot;:false,&quot;adjective&quot;:&quot;is awesome&quot;,&quot;mode&quot;:&quot;fullpage&quot;}"><div class="image-top">
+<img alt="961x477" src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/961x477.jpg">
+</div>
+<div class="content">
+<div class="avatar">
+<img alt="Team-avatar" src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/team-avatar-0d8ced631afa75f4d7bd56faa3598c1f.png">
+</div>
+<h4>SoFi, Inc.</h4>
+<p>
+Calling all User Interface (UI) Developers. SoFi, Inc. is awesome and is hiring!
+</p>
+</div>
+</a><a class="feature-jobs track" data-action="upgrade team" data-from="protip page" href="https://coderwall.com/employers">
+feature your jobs here
+</a>
+<pm:widget max-item-count="4" show-thumbs="false" title="Recommended" width="244"></pm:widget>
+</div>
+
+</div>
+</aside>
+<article class="tip-panel" id="tr64xg">
+<a href="http://twitter.com/share?url=https%3A%2F%2Fcoderwall.com%2Fp%2Ftr64xg&amp;via=coderwall&amp;text=Fetch+and+render+events+from+MySQL+to+FullCalendar.js+%23protip&amp;related=&amp;count=vertical&amp;lang=en" class="share-this-tip direction track" data-action="share protip" data-from="protip" target="new">Share this</a>
+<a href="https://coderwall.com/p/tr64xg/upvote" class="upvote track" data-action="upvote protip" data-from="protip" data-method="post" data-remote="true" rel="nofollow">95</a>
+<header class="tip-header">
+<h1 class="tip-title">
+Fetch and render events from MySQL to FullCalendar.js
+</h1>
+<p class="views">
+<i class="fa fa-eye"></i>
+<span>
+9955
+</span>
+views
+</p>
+<ul class="cf" id="tags">
+<li>
+<a href="https://coderwall.com/p/t/fullcalendar-js">fullcalendar.js</a>
+</li>
+<li>
+<a href="https://coderwall.com/p/t/json">json</a>
+</li>
+<li>
+<a href="https://coderwall.com/p/t/mysql">mysql</a>
+</li>
+<li>
+<a href="https://coderwall.com/p/t/javascript">javascript</a>
+</li>
+</ul>
+<!-- /Time stamp -->
+<div class="timestamp cf" title="Publish time">
+<i class="fa fa-clock-o"></i>
+<time data-local="time-ago" datetime="2013-07-26T23:14:05Z">July 26, 2013 11:14pm</time>
+</div>
+</header>
+<hr>
+<div class="tip-content">
+<p>This small tutorial will teach you the basics of fetching events from MySQL and render the data with <a href="http://arshaw.com/fullcalendar/">FullCalendar.js</a> using PHP, Javascript and PDO. Let's do it in 2 easy steps.</p>
+
+<ol>
+<li>Create an html file which will output the final result:</li>
+</ol>
+
+<hr>
+
+<p><strong>calendar.html</strong></p>
+
+<pre><code class="html">&lt;div id="calendar"&gt;&lt;/div&gt;
+
+$(document).ready(function() {
+    var calendar = $('#calendar').fullCalendar({
+        defaultView: 'agendaWeek',
+        events: {
+            url: 'json-events-feed.php',
+            type: 'POST', // Send post data
+            error: function() {
+                alert('There was an error while fetching events.');
+            }
+        }
+    });
+});
+</code></pre>
+
+<hr>
+
+<ol>
+<li>Create a php file which will echo our events in json format:</li>
+</ol>
+
+<p><strong>events.php</strong></p>
+
+<pre><code class="php">try {
+
+    // Connect to database
+    $connection = new PDO($url, $username, $password);
+
+    // Prepare and execute query
+    $query = "SELECT * FROM events";
+    $sth = $connection-&gt;prepare($query);
+    $sth-&gt;execute();
+
+    // Returning array
+    $events = array();
+
+    // Fetch results
+    while ($row = $sth-&gt;fetch(PDO::FETCH_ASSOC) {
+
+        $e = array();
+        $e['id'] = $row['id'];
+        $e['title'] = "Lorem Ipsum";
+        $e['start'] = $row['start'];
+        $e['end'] = $row['end'];
+        $e['allDay'] = false;
+
+        // Merge the event array into the return array
+        array_push($events, $e);
+
+    }
+
+    // Output json for our calendar
+    echo json_encode($events);
+    exit();
+
+} catch (PDOException $e){
+    echo $e-&gt;getMessage();
+}
+</code></pre>
+
+<hr>
+
+<p>Of course, there's room for optimization and further customization. Check out the <a href="http://arshaw.com/fullcalendar/docs/">API</a> for the full feature list.</p>
+
+<p>Have fun!</p>
+
+</div>
+</article>
+<section class="comments">
+<h2 class="comments-header">
+<i class="fa fa-comments"></i>
+Comments
+</h2>
+<ul class="comment-list">
+<li class="cf" id="comment_14236">
+<header class="cf">
+<div class="comment-avatar">
+<img alt="E9bee2777e46ba3f4770527a91520caf" class="avatar" src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/e9bee2777e46ba3f4770527a91520caf.jpg">
+</div>
+<a class="comment-user" data-reply-to="msajdialikhan" href="https://coderwall.com/msajdialikhan">
+msajdialikhan
+</a>
+<a class="like not-liked" data-method="post" data-remote="true" href="https://coderwall.com/p/tr64xg/comments/14236/like" rel="nofollow">
+
+</a>
+</header>
+<div class="comment">
+<p>
+</p><p>Don't forget the 3 hidden fields you have to create in the html markup. What are those field</p>
+
+<p></p>
+</div>
+<ul class="edit-del cf">
+</ul>
+</li>
+<li class="cf" id="comment_16034">
+<header class="cf">
+<div class="comment-avatar">
+<img alt="0_vu55r8doitwddr1pzelvrieqtqxuwzip4slvrievyawgnpq1nevwy_oq7s0thxgxr7bu0kneewy9" class="avatar" src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/0_Vu55r8DoitwDdR1PZeLVriEQTqxuwZiP4SlVriEVYAwgNpq1nEvWY_Oq7s.jpg">
+</div>
+<a class="comment-user" data-reply-to="kimremme" href="https://coderwall.com/kimremme">
+kimremme
+</a>
+<a class="like not-liked" data-method="post" data-remote="true" href="https://coderwall.com/p/tr64xg/comments/16034/like" rel="nofollow">
+
+</a>
+</header>
+<div class="comment">
+<p>
+</p><p>Hi, 
+Thank you for this tutorial, but there is an error in your code, you are
+ missing a ' inside  json-events-feed.php in the second line after 
+"hiddenAllDay" :</p>
+
+<p>if(!isset($<em>POST['hiddenStart'], $</em>POST['hiddenEnd'], $_POST['hiddenAllDay'])) {</p>
+
+<p></p>
+</div>
+<ul class="edit-del cf">
+</ul>
+</li>
+<li class="cf" id="comment_16037">
+<header class="cf">
+<div class="comment-avatar">
+<img alt="Julien-profile" class="avatar" src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/Julien-Profile.jpg">
+</div>
+<a class="comment-user" data-reply-to="juliencharette" href="https://coderwall.com/juliencharette">
+juliencharette
+</a>
+<a class="like not-liked" data-method="post" data-remote="true" href="https://coderwall.com/p/tr64xg/comments/16037/like" rel="nofollow">
+
+</a>
+</header>
+<div class="comment">
+<p>
+</p><p>Thanks for pointing this out!</p>
+
+<p></p>
+</div>
+<ul class="edit-del cf">
+</ul>
+</li>
+<li class="cf" id="comment_16040">
+<header class="cf">
+<div class="comment-avatar">
+<img alt="Julien-profile" class="avatar" src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/Julien-Profile.jpg">
+</div>
+<a class="comment-user" data-reply-to="juliencharette" href="https://coderwall.com/juliencharette">
+juliencharette
+</a>
+<a class="like not-liked" data-method="post" data-remote="true" href="https://coderwall.com/p/tr64xg/comments/16040/like" rel="nofollow">
+
+</a>
+</header>
+<div class="comment">
+<p>
+</p><p>I was actually using this bit of code in a project where I would 
+use the data of a selected date. I will edit this protip and remove the 
+"hidden fields" portion.</p>
+
+<p></p>
+</div>
+<ul class="edit-del cf">
+</ul>
+</li>
+
+</ul>
+<div class="add-comment cf" id="add-comment">
+<h2>
+<i class="fa fa-comment"></i>
+Add a comment
+</h2>
+<form accept-charset="UTF-8" action="/p/tr64xg/comments" class="new_comment" id="new_comment" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" value="✓" type="hidden"><input name="authenticity_token" value="G5t5Nrj0doHFDBLpBppqOBrSKiEteTNcEBoDfMDmIXI=" type="hidden"></div><textarea cols="40" id="comment_comment" label="false" name="comment[comment]" rows="5"></textarea>
+<input class="button" value="Submit comment" type="submit">
+</form>
+
+</div>
+
+</section>
+<div class="mobile-job">
+<a href="https://coderwall.com/team/sofi-inc" class="team-box" data-action="view team jobs" data-from="job on protip" data-properties="{&quot;author's team&quot;:false,&quot;adjective&quot;:&quot;is amazing&quot;,&quot;mode&quot;:&quot;fullpage&quot;}"><div class="image-top">
+<img alt="961x477" src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/961x477.jpg">
+</div>
+<div class="content">
+<div class="avatar">
+<img alt="Team-avatar" src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/team-avatar-0d8ced631afa75f4d7bd56faa3598c1f.png">
+</div>
+<h4>SoFi, Inc.</h4>
+<p>
+Calling all User Interface (UI) Developers. SoFi, Inc. is amazing and is hiring!
+</p>
+</div>
+</a></div>
+</div>
+</div>
+
+
+</div>
+
+<script>
+  window.console.log = function(){}
+</script>
+<script src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/jquery-4d41cc05cfd047cae09d4b6762a776a4.js" type="text/javascript"></script>
+<script src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/jquery_ujs-67a6eed1618c06effa1a9620a382c715.js" type="text/javascript"></script>
+    <script src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/tracking-cdc979283f12b7b85f028d47fcc241db.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+
+        mixpanel.identify('148ca4884d775-06c150afbfd5ae8-42504336-100200-148ca4884d8b');
+
+        mixpanel.register({'signed in': false,
+            'member': false,
+            'first visit': false
+        }, 'all', 31);
+
+        logUsage('viewed protip', null, {"featured":true,"distinction":"hawt"});
+
+
+        (function () {
+            window._pa = window._pa || {};
+            var pa = document.createElement('script');
+            pa.type = 'text/javascript';
+            pa.async = true;
+            pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/50775e2d30a1d50002000221.js";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(pa, s);
+        })();
+        window.onerror = function (message, file, line) {
+            var prop = {}
+            prop.message = message;
+            prop.file = file;
+            prop.line = line;
+            mixpanel.track('error', prop);
+        }
+    </script>
+
+<script src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/highlight-d48cdd890b3405fbcb66de00740c32bc.js" type="text/javascript"></script>
+<script src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/language-4667e3e01966ba923e9ece90a31a92c9.js" type="text/javascript"></script>
+<script src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/autosaver-1cfda175a444b18eb876763935db6e00.js" type="text/javascript"></script>
+<script src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/protips-bae8c3fa17c97063b33544f181d60a0a.js" type="text/javascript"></script>
+  <script src="Julien%20Charette%20%20%20Fetch%20and%20render%20events%20from%20MySQL%20to%20FullCalendar.js_files/dismissable-064596791707577430a9d4b59a670319.js" type="text/javascript"></script>
+
+<script>
+  window.current_user = "null";
+  function show_hide_by_current_user(){
+    if(window.current_user != null){
+      $('.show-for-user[data-user="' + window.current_user + '"]').show();
+      $('.hide-for-user[data-user="' + window.current_user + '"]').hide();
+      $('.remove-for-user[data-user="' + window.current_user + '"]').remove();
+    }
+  }
+  $(function(){
+    show_hide_by_current_user();
+  })
+</script>
+
+
+
+<script src="https://js-agent.newrelic.com/nr-412.min.js"></script></body></html>

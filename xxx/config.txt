@@ -1,0 +1,16 @@
+web granesia
+
+databasename	: webgranesia
+username	: granesia
+password	: granesia147
+databasehost	: localhost
+table prefix	: wp_
+
+site title	: granesia.co.id
+username	: granesia.pt@gmail.com
+password	: QC31b3^vzRdjwg7fVv
+email 		: granesia.pt@gmail.com
+
+
+di laptop
+password 	: hNxtQ&Oh2!OP)gN3z2

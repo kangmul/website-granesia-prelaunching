@@ -1,0 +1,511 @@
+[13-Mar-2015 11:23:35 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 11:24:36 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 11:27:58 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 11:28:55 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 11:33:59 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 11:34:55 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 11:37:38 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 11:40:49 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 11:42:20 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 11:45:29 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 14:30:34 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 14:38:17 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[13-Mar-2015 14:38:54 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[13-Mar-2015 14:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[13-Mar-2015 14:39:12 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[13-Mar-2015 14:39:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[13-Mar-2015 14:39:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[13-Mar-2015 14:39:26 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[13-Mar-2015 14:39:33 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[13-Mar-2015 14:39:40 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[13-Mar-2015 14:39:45 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[13-Mar-2015 14:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[13-Mar-2015 14:42:47 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 14:45:56 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 14:50:23 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 14:55:39 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 14:57:31 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 16:48:08 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[13-Mar-2015 20:32:58 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[15-Mar-2015 14:54:57 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[16-Mar-2015 16:22:02 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[17-Mar-2015 09:37:26 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[17-Mar-2015 09:46:02 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[17-Mar-2015 09:47:30 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[17-Mar-2015 09:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[17-Mar-2015 09:49:15 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[17-Mar-2015 09:49:17 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[17-Mar-2015 09:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[17-Mar-2015 09:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 5
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 8
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 11
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 14
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 17
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 20
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 23
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 26
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 29
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 32
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 35
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 38
+[17-Mar-2015 09:49:22 Asia/Jakarta] PHP Notice:  Undefined variable: p in /home/granesia/public_html/admin/app/admin.php on line 41
+[17-Mar-2015 09:51:10 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[17-Mar-2015 09:52:04 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[17-Mar-2015 09:52:52 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/db.php on line 11
+[17-Mar-2015 09:55:34 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[17-Mar-2015 10:19:37 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[17-Mar-2015 11:16:53 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[17-Mar-2015 11:24:56 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[17-Mar-2015 11:24:56 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[17-Mar-2015 11:25:00 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[17-Mar-2015 11:25:00 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[17-Mar-2015 13:41:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(/home/granesia/public_html/admin/app/link_terkait/admin/app/link_terkait/image/PT-KAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[17-Mar-2015 13:41:41 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phprkTSlM' to '/home/granesia/public_html/admin/app/link_terkait/admin/app/link_terkait/image/PT-KAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[17-Mar-2015 13:45:48 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[17-Mar-2015 13:45:48 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[17-Mar-2015 13:47:10 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[17-Mar-2015 13:47:10 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[17-Mar-2015 14:44:55 Asia/Jakarta] PHP Warning:  move_uploaded_file(image/PT-KAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[17-Mar-2015 14:44:56 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpV4u8wS' to 'image/PT-KAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[18-Mar-2015 08:24:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[18-Mar-2015 08:32:24 Asia/Jakarta] PHP Warning:  move_uploaded_file(image/PT-KAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[18-Mar-2015 08:32:24 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/php5BVvDY' to 'image/PT-KAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[18-Mar-2015 08:47:16 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 17
+[18-Mar-2015 08:47:16 Asia/Jakarta] PHP Warning:  move_uploaded_file(image/PT-KAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 31
+[18-Mar-2015 08:47:16 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpy3KMuK' to 'image/PT-KAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 31
+[18-Mar-2015 08:53:27 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 17
+[18-Mar-2015 08:53:27 Asia/Jakarta] PHP Warning:  move_uploaded_file(../../../image/PT-KAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 31
+[18-Mar-2015 08:53:27 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpoxQ0VB' to '../../../image/PT-KAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 31
+[18-Mar-2015 08:55:15 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 08:55:15 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 08:55:32 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 2
+[18-Mar-2015 08:55:32 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 2
+[18-Mar-2015 08:55:32 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 17
+[18-Mar-2015 08:55:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(../image/PT-KAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 31
+[18-Mar-2015 08:55:32 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpyNoZs4' to '../image/PT-KAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 31
+[18-Mar-2015 08:55:32 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 36
+[18-Mar-2015 08:55:32 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 36
+[18-Mar-2015 08:57:00 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 08:57:00 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 08:57:19 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 2
+[18-Mar-2015 08:57:19 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 2
+[18-Mar-2015 08:57:19 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 17
+[18-Mar-2015 08:57:19 Asia/Jakarta] PHP Warning:  move_uploaded_file(image/PT-KAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 31
+[18-Mar-2015 08:57:19 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/php7LSfC2' to 'image/PT-KAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 31
+[18-Mar-2015 08:57:19 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 36
+[18-Mar-2015 08:57:19 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 36
+[18-Mar-2015 09:19:42 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 09:19:42 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 09:20:10 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 2
+[18-Mar-2015 09:20:10 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 2
+[18-Mar-2015 09:20:10 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[18-Mar-2015 09:20:10 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[18-Mar-2015 09:21:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 17
+[18-Mar-2015 09:21:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 17
+[18-Mar-2015 09:21:56 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 09:21:56 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 09:24:38 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 09:24:38 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 09:24:53 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 2
+[18-Mar-2015 09:24:53 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 2
+[18-Mar-2015 09:24:53 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[18-Mar-2015 09:24:53 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[18-Mar-2015 09:27:25 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 09:27:25 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 09:27:41 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 2
+[18-Mar-2015 09:27:41 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 2
+[18-Mar-2015 09:27:41 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[18-Mar-2015 09:27:41 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[18-Mar-2015 09:28:30 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 2
+[18-Mar-2015 09:28:30 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 2
+[18-Mar-2015 09:28:30 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[18-Mar-2015 09:28:30 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[18-Mar-2015 09:50:25 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[18-Mar-2015 10:23:27 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 10:23:27 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 10:28:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(./admin/app/link_terkait/images/PT_KAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[18-Mar-2015 10:28:10 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpRHYBKV' to './admin/app/link_terkait/images/PT_KAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[18-Mar-2015 10:32:50 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 7
+[18-Mar-2015 10:32:50 Asia/Jakarta] PHP Warning:  move_uploaded_file(./admin/app/link_terkait/images/PT_KAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 15
+[18-Mar-2015 10:32:50 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpuednjy' to './admin/app/link_terkait/images/PT_KAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 15
+[18-Mar-2015 10:35:18 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 10:35:18 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 10:35:32 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 7
+[18-Mar-2015 10:35:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(./admin/app/link_terkait/images/PT_KAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 15
+[18-Mar-2015 10:35:32 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpXEnfs4' to './admin/app/link_terkait/images/PT_KAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 15
+[18-Mar-2015 11:18:54 Asia/Jakarta] PHP Notice:  Undefined variable: lokasitujuan in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[18-Mar-2015 11:18:54 Asia/Jakarta] PHP Warning:  move_uploaded_file(/PTKAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: Permission denied in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[18-Mar-2015 11:18:54 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpPJkNSj' to '/PTKAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[18-Mar-2015 14:54:42 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 14:54:42 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 14:55:00 Asia/Jakarta] PHP Warning:  chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[18-Mar-2015 14:55:00 Asia/Jakarta] PHP Warning:  move_uploaded_file(images/PT KAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 20
+[18-Mar-2015 14:55:00 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpByPD4G' to 'images/PT KAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 20
+[18-Mar-2015 15:12:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 15
+[18-Mar-2015 15:13:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 15
+[18-Mar-2015 15:14:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 15
+[18-Mar-2015 15:15:04 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 15:15:04 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 15:15:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 15
+[18-Mar-2015 15:15:23 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[18-Mar-2015 15:15:23 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[19-Mar-2015 08:51:14 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[19-Mar-2015 09:57:37 Asia/Jakarta] PHP Warning:  move_uploaded_file(./images/PTKAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 15
+[19-Mar-2015 09:57:38 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpW2oDsF' to './images/PTKAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 15
+[19-Mar-2015 10:05:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(./images/) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: Is a directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 16
+[19-Mar-2015 10:05:40 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phptfhKHj' to './images/' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 16
+[19-Mar-2015 10:05:40 Asia/Jakarta] PHP Notice:  Undefined index: location in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 29
+[19-Mar-2015 10:11:45 Asia/Jakarta] PHP Warning:  move_uploaded_file(./images/PTKAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 17
+[19-Mar-2015 10:11:45 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phppiJ0Vt' to './images/PTKAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 17
+[19-Mar-2015 10:11:45 Asia/Jakarta] PHP Notice:  Undefined index: location in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 30
+[19-Mar-2015 10:14:24 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[19-Mar-2015 10:14:24 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[19-Mar-2015 10:14:39 Asia/Jakarta] PHP Notice:  Undefined index: nama_file in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 17
+[19-Mar-2015 10:14:39 Asia/Jakarta] PHP Notice:  Undefined index: location in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 30
+[19-Mar-2015 10:20:22 Asia/Jakarta] PHP Notice:  Undefined index: nama_file in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 17
+[19-Mar-2015 10:20:22 Asia/Jakarta] PHP Notice:  Undefined index: location in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 30
+[19-Mar-2015 10:21:17 Asia/Jakarta] PHP Warning:  move_uploaded_file(./images/PTKAI.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 17
+[19-Mar-2015 10:21:17 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpKDmL2V' to './images/PTKAI.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 17
+[19-Mar-2015 10:21:17 Asia/Jakarta] PHP Notice:  Undefined index: location in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 30
+[19-Mar-2015 10:24:21 Asia/Jakarta] PHP Warning:  move_uploaded_file(./images/PTKAIjpg.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[19-Mar-2015 10:24:21 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phppDFy5j' to './images/PTKAIjpg.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[19-Mar-2015 10:24:21 Asia/Jakarta] PHP Notice:  Undefined index: location in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 32
+[19-Mar-2015 10:24:42 Asia/Jakarta] PHP Warning:  move_uploaded_file(./images/PTKAIjpg.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[19-Mar-2015 10:24:42 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phps98cQB' to './images/PTKAIjpg.jpg' in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 19
+[19-Mar-2015 10:24:42 Asia/Jakarta] PHP Notice:  Undefined index: location in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 32
+[19-Mar-2015 11:03:44 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[19-Mar-2015 11:03:44 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[19-Mar-2015 11:04:03 Asia/Jakarta] PHP Warning:  preg_replace() expects at least 3 parameters, 2 given in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[19-Mar-2015 11:09:01 Asia/Jakarta] PHP Warning:  preg_replace() expects at least 3 parameters, 2 given in /home/granesia/public_html/admin/app/link_terkait/linkterkait_act_insert.php on line 14
+[19-Mar-2015 11:12:02 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[19-Mar-2015 11:12:02 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[20-Mar-2015 09:05:33 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[20-Mar-2015 09:06:45 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[20-Mar-2015 09:06:45 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[20-Mar-2015 09:32:14 Asia/Jakarta] PHP Warning:  include(../../db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[20-Mar-2015 09:32:14 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../db.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/link_terkait/linkterkait_form_insert.php on line 3
+[20-Mar-2015 10:32:04 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/granesia/public_html/admin/app/foto/foto_act_insert.php on line 22
+[20-Mar-2015 10:32:04 Asia/Jakarta] PHP Notice:  Undefined variable: keterangan in /home/granesia/public_html/admin/app/foto/foto_act_insert.php on line 22
+[20-Mar-2015 10:32:04 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 10:32:04 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 10:34:02 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 10:34:02 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 11:02:38 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 11:02:38 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 12:40:45 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 12:40:45 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 12:40:56 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 12:40:56 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 14:36:45 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[20-Mar-2015 14:49:08 Asia/Jakarta] PHP Warning:  move_uploaded_file(./app/Slide_show/files/201401151518389_20140115022749.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/slide_show/slideshow_act_update.php on line 24
+[20-Mar-2015 14:49:08 Asia/Jakarta] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpEDFZVZ' to './app/Slide_show/files/201401151518389_20140115022749.jpg' in /home/granesia/public_html/admin/app/slide_show/slideshow_act_update.php on line 24
+[20-Mar-2015 14:53:50 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[20-Mar-2015 15:36:48 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/granesia/public_html/admin/app/foto/foto_act_update.php on line 9
+[20-Mar-2015 15:36:48 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/granesia/public_html/admin/app/foto/foto_act_update.php on line 10
+[20-Mar-2015 15:36:48 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 15:36:48 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 15:43:24 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 15:43:24 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 15:45:10 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 15:45:10 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 15:57:40 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 15:57:40 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 16:02:50 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 16:02:50 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 16:06:17 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[20-Mar-2015 16:17:45 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 16:17:45 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 16:19:18 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 16:19:18 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 16:19:37 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 16:19:37 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 16:20:03 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 16:20:03 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[20-Mar-2015 16:35:04 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[20-Mar-2015 16:49:46 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/promo/promo_form_view.php on line 6
+[20-Mar-2015 16:49:46 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/promo/promo_form_view.php on line 6
+[20-Mar-2015 16:50:52 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/promo/promo_form_view.php on line 6
+[20-Mar-2015 16:50:52 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/promo/promo_form_view.php on line 6
+[20-Mar-2015 16:51:48 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/resensi/resensi_form_view.php on line 6
+[20-Mar-2015 16:51:48 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/resensi/resensi_form_view.php on line 6
+[23-Mar-2015 09:17:29 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[23-Mar-2015 09:21:29 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/promo/promo_form_view.php on line 6
+[23-Mar-2015 09:21:29 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/promo/promo_form_view.php on line 6
+[23-Mar-2015 09:26:57 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[23-Mar-2015 09:36:50 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/granesia/public_html/admin/app/slide_show/slideshow_act_update.php on line 30
+[23-Mar-2015 09:36:50 Asia/Jakarta] PHP Notice:  Undefined index: isi_berita in /home/granesia/public_html/admin/app/slide_show/slideshow_act_update.php on line 31
+[23-Mar-2015 10:04:51 Asia/Jakarta] PHP Warning:  unlink(/home/granesia/public_html/granesia/admin/app/slide_show/images/LogoUlangtahun.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/granesia/public_html/admin/app/slide_show/slideshow_act_delete.php on line 17
+[23-Mar-2015 10:29:14 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[23-Mar-2015 10:29:14 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[23-Mar-2015 10:31:16 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[23-Mar-2015 10:31:16 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[23-Mar-2015 11:23:46 Asia/Jakarta] PHP Warning:  unlink(/home/granesia/public_html/granesia/admin/app/slide_show/images/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/granesia/public_html/admin/app/slide_show/slideshow_act_delete.php on line 17
+[23-Mar-2015 15:48:53 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[23-Mar-2015 15:48:53 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[23-Mar-2015 15:51:45 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[23-Mar-2015 15:51:45 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[24-Mar-2015 12:40:30 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[24-Mar-2015 12:41:58 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/granesia/public_html/admin/app/upload/upload_act_insert.php on line 6
+[24-Mar-2015 12:41:58 Asia/Jakarta] PHP Notice:  Undefined index: nama_file in /home/granesia/public_html/admin/app/upload/upload_act_insert.php on line 7
+[24-Mar-2015 12:41:58 Asia/Jakarta] PHP Notice:  Undefined index: nama_file in /home/granesia/public_html/admin/app/upload/upload_act_insert.php on line 8
+[24-Mar-2015 12:41:58 Asia/Jakarta] PHP Notice:  Undefined index: nama_file in /home/granesia/public_html/admin/app/upload/upload_act_insert.php on line 16
+[24-Mar-2015 12:41:58 Asia/Jakarta] PHP Notice:  Undefined index: location in /home/granesia/public_html/admin/app/upload/upload_act_insert.php on line 27
+[24-Mar-2015 12:45:42 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/granesia/public_html/admin/app/upload/upload_act_insert.php on line 6
+[24-Mar-2015 12:45:42 Asia/Jakarta] PHP Notice:  Undefined index: location in /home/granesia/public_html/admin/app/upload/upload_act_insert.php on line 27
+[24-Mar-2015 12:47:59 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[24-Mar-2015 12:47:59 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[27-Mar-2015 08:16:42 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[07-Apr-2015 09:53:20 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[08-Apr-2015 11:03:52 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[16-Apr-2015 09:50:34 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[20-Apr-2015 15:06:49 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[20-Apr-2015 15:13:59 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[20-Apr-2015 15:13:59 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[20-Apr-2015 15:23:14 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[20-Apr-2015 15:23:14 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[20-Apr-2015 15:25:42 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[20-Apr-2015 15:25:42 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[20-Apr-2015 15:26:13 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[20-Apr-2015 15:26:13 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[21-Apr-2015 00:26:50 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[22-Apr-2015 23:28:23 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[22-Apr-2015 23:30:24 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[22-Apr-2015 23:30:24 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[22-Apr-2015 23:30:24 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[22-Apr-2015 23:32:22 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[22-Apr-2015 23:32:22 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[22-Apr-2015 23:32:22 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[22-Apr-2015 23:32:56 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[22-Apr-2015 23:32:56 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[22-Apr-2015 23:32:56 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[22-Apr-2015 23:33:56 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[22-Apr-2015 23:33:56 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[22-Apr-2015 23:33:56 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/foto/foto_data_view.php on line 6
+[22-Apr-2015 23:34:36 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/resensi/resensi_form_view.php on line 6
+[22-Apr-2015 23:34:36 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/resensi/resensi_form_view.php on line 6
+[22-Apr-2015 23:34:36 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/resensi/resensi_form_view.php on line 6
+[22-Apr-2015 23:34:56 Asia/Jakarta] PHP Warning:  unlink(/home/granesia/public_html/granesia/admin/app/resensi/images/subscribephp.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/granesia/public_html/admin/app/resensi/resensi_act_delete.php on line 15
+[22-Apr-2015 23:34:56 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/resensi/resensi_form_view.php on line 6
+[22-Apr-2015 23:34:56 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/resensi/resensi_form_view.php on line 6
+[22-Apr-2015 23:34:56 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/resensi/resensi_form_view.php on line 6
+[23-Apr-2015 00:00:01 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[23-Apr-2015 00:02:58 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[23-Apr-2015 00:03:10 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[23-Apr-2015 00:03:10 Asia/Jakarta] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[23-Apr-2015 00:03:10 Asia/Jakarta] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/granesia/public_html/admin/app/upload/upload_data_view.php on line 6
+[23-Apr-2015 19:33:12 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[02-May-2015 14:50:30 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[02-May-2015 14:50:32 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[18-May-2015 15:06:10 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[15-Jun-2015 14:21:57 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[26-Jun-2015 13:46:24 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[30-Jun-2015 13:40:13 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11
+[30-Jul-2015 14:07:22 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/granesia/public_html/admin/cek_login.php on line 11

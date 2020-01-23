@@ -1,0 +1,10 @@
+/* log tkjp pertamina */
+[2014-20-03:20:59:09] --> User X melakukan aksi A 
+[2014-20-03:20:59:09] --> User X melakukan aksi A 
+[2014-21-03:22:36:51] --> User X melakukan aksi A 
+[2014-22-03:16:15:13] --> User X melakukan aksi A 
+[2014-23-03:20:19:59] --> User : admin  modul : lokasi   deskripsi : Input Data 
+[2014-23-03:20:21:10] --> User : admin          modul : lokasi           deskripsi : Input Data 
+[2014-23-03:20:22:29] --> User : admin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modul : lokasi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; deskripsi : Input Data 
+[2014-23-03:20:24:24] --> User : admin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modul : lokasi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; deskripsi : Input Data 
+[2014-23-03:20:26:37] --> User : admin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modul : fungsi pegawai &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; deskripsi : Input Data 

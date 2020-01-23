@@ -1,0 +1,6 @@
+#pesan{background-color:#4B59a9;padding:2;position:relative;left:110;cursor:pointer;width:100px}
+#notifikasi{font-size:10pt;position:relative;top:-4}
+#info{width:300px;padding:3;position:absolute;left:110;background-color:#efefef;z-index:1000;display:none}
+.info2{font-family:arial;font-size:10pt}
+#content{padding:10}
+

@@ -1,0 +1,447 @@
+		<!--AWAL MODAL-->
+		<!-- Button trigger modal -->
+		
+<div class="col-lg-4">
+          <div class="service_block">
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal5">
+           <div   delay-03s animated wow zoomIn"> <span><i class="fa-calendar"></i> </span></div>
+</button>
+             <h3 class="animated fadeInUp wow">Promotion</h3>
+ </div>
+        </div>
+<!-- Modal -->
+<div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h4 class="modal-title" id="myModalLabel"><center>PROMOTION</center></h4>
+      </div>
+      <div class="modal-body">
+        555
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+		<!--AKHIR-->
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				<!--AWAL MODAL-->
+		<!-- Button trigger modal -->
+		
+<div class="col-lg-4">
+          <div class="service_block">
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal3">
+   <div class="service_icon icon3  delay-03s animated wow zoomIn"><span><i class="fa-trophy"></i></span></div>
+</button>
+<h3 class="animated fadeInUp wow">Award</h3>
+ </div>
+        </div>
+<!-- Modal -->
+<div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h4 class="modal-title" id="myModalLabel"><center>AWARD</center></h4>
+      </div>
+      <div class="modal-body"><table>
+        <tr>
+			<td align="center" width=50 height=50><b>NO</b></td>
+			<td align="center" width=1000><b>KETERANGAN</b></td>
+		</tr>
+		<?php
+		mysql_connect("localhost","root","");
+		mysql_select_db("ptgranesia");
+		
+		$sql=mysql_query("SELECT * FROM award");
+		$no=1;
+		while($data=mysql_fetch_array($sql)){
+		?>
+		<tr>
+			<td align="center"><?php echo $no++; ?>.</td>
+			<td><?php echo $data['ket'] ?></td>
+		</tr>
+		<?php
+		}
+		?>
+		</table>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+		<!--AKHIR-->
+		
+		
+		
+		
+		
+		
+		
+		
+		
+<!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  kegiatan isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->       <div class="portfolio-image"> <img src="img/keg1.jpg"  alt="Portfolio 1"> </div>
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+<!--judul-->           <h4 class="project-name"> Bakti Sosial</h4>
+ <!--deskripsi-->                <p class="project-categories"> Bakti sosial PT. Granesia di Pondok Yatim Abu Soreang.</p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI -->  
+      
+ <!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  kegiatan isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->        <div class="portfolio-image"> <img src="img/keg2.jpg"  alt="Portfolio 1"> </div>
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+ <!--judul-->           <h4 class="project-name">Ziarah Kubur</h4>
+ <!--deskripsi-->                <p class="project-categories">Mengunjungi Makam Pendiri PT. Pikiran Rakyat di Taman Makan Pahlawan Bandung Pada Rangkaian Acara Milad PT. Granesia Yang ke 42.</p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI --> 
+
+<!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  kegiatan isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->       <div class="portfolio-image"> <img src="img/keg3.jpg"  alt="Portfolio 1"> </div>
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+<!--judul-->           <h4 class="project-name"> Ulang Tahun PT.Granesia</h4>
+ <!--deskripsi-->                <p class="project-categories"> Sambutan Direktur PT. Granesia pada perayaan Ulang Tahun PT. Granesia yang Ke 42.</p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI -->
+
+<!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  kegiatan isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->       <div class="portfolio-image"> <img src="img/keg4.jpg"  alt="Portfolio 1"> </div>
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+<!--judul-->           <h4 class="project-name"> Ulang Tahun PT.Granesia</h4>
+ <!--deskripsi-->                <p class="project-categories"> Perayaan Ulang Tahun PT. Granesia dihadiri oleh Direksi, Tamu Undangan, dan seluruh Karyawan.</p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI -->  
+
+<!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  client isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->       <div class="portfolio-image"> <img src="img/galamedia.jpg"  alt="Portfolio 1"> </div>
+<a href="http://www.galamedianews.com/" class="external">
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+<!--judul-->           <h4 class="project-name"><span><br><i class="fa-link"></i></h4>
+ <!--deskripsi-->                <p class="project-categories"> </p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI -->    
+
+<!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  client isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->       <div class="portfolio-image"> <img src="img/galura.jpg"  alt="Portfolio 1"> </div>
+<a href="#" class="external">
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+<!--judul-->           <h4 class="project-name"><span><br><i class="fa-link"></i></h4>
+ <!--deskripsi-->                <p class="project-categories"> </p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI -->   
+
+<!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  client isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->       <div class="portfolio-image"> <img src="img/kabar_banten.jpg"  alt="Portfolio 1"> </div>
+<a href="http://www.kabar-banten.com/" class="external">
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+<!--judul-->           <h4 class="project-name"><span><br><i class="fa-link"></i></span></h4>
+ <!--deskripsi-->                <p class="project-categories"> </p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI -->
+
+<!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  client isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->       <div class="portfolio-image"> <img src="img/pikiran_rakyat.jpg"  alt="Portfolio 1"> </div>
+<a href="http://www.pikiran-rakyat.com/" class="external">
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+<!--judul-->           <h4 class="project-name"><span><br><i class="fa-link"></i></h4>
+ <!--deskripsi-->                <p class="project-categories"> </p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI -->
+
+<!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  client isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->       <div class="portfolio-image"> <img src="img/pln.jpg"  alt="Portfolio 1"> </div>
+<a href="http://www.pln.co.id/" class="external">
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+<!--judul-->           <h4 class="project-name"><span><br><i class="fa-link"></i></h4>
+ <!--deskripsi-->                <p class="project-categories"> </p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI -->
+
+<!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  client isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->       <div class="portfolio-image"> <img src="img/ptkai.jpg"  alt="Portfolio 1"> </div>
+<a href="http://www.kereta-api.co.id/" class="external">
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+<!--judul-->           <h4 class="project-name"><span><br><i class="fa-link"></i></h4>
+ <!--deskripsi-->                <p class="project-categories"> </p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI -->
+
+<!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  client isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->       <div class="portfolio-image"> <img src="img/sbmart.jpg"  alt="Portfolio 1"> </div>
+<a href="http://www.sbmart.co.id/" class="external">
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+<!--judul-->           <h4 class="project-name"><span><br><i class="fa-link"></i></h4>
+ <!--deskripsi-->                <p class="project-categories"> </p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI <!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  client isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->       <div class="portfolio-image"> <img src="img/mangle_online.jpg"  alt="Portfolio 1"> </div>
+<a href="http://www.mangle-online.com/" class="external">
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+<!--judul-->           <h4 class="project-name"><span><br><i class="fa-link"></i></h4>
+ <!--deskripsi-->                <p class="project-categories"> </p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI -->
+
+<!--   JIKA INGIN MENAMBAHKAN COPY DISINI -->  
+      <!-- AWAL GALERY  -->
+      <div style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); width: 337px; opacity: 1;" class="portfolio-item one-four  client isotope-item"> <!-- << PILIH KATEGORI-->
+<!--Gambar-->       <div class="portfolio-image"> <img src="img/kabar_priangan_online.jpg"  alt="Portfolio 1"> </div>
+<a href="http://www.kabar-priangan.com/" class="external">
+        <div class="project-overlay">
+          <div class="project-info">
+            <div class="zoom-icon"></div>
+<!--judul-->           <h4 class="project-name"><span><br><i class="fa-link"></i></h4>
+ <!--deskripsi-->                <p class="project-categories"> </p>
+          </div>
+        </div>
+        </a> </div>
+      <!--/AKHIR GALERY  --> 
+<!--/COPY SAMPAI SINI -->
+
+
+
+
+
+
+		  <h1>Fitur Tambahan 1</h1>
+			<ul class="social-link">
+            <li class="twitter animated bounceIn wow delay-01s"><a href="game/2048/index.html"><i class="fa-gamepad"></i></a></li>
+			<li class="facebook animated bounceIn wow delay-02s"><a href="game/tetris/index.html"><i class="fa-gamepad"></i></a></li>
+            <li class="gplus animated bounceIn wow delay-03s"><a href="game/clumsy/index.html"><i class="fa-gamepad"></i></a></li>
+            <li class="twitter animated bounceIn wow delay-04s"><a href="game/hextris/index.html"><i class="fa-gamepad"></i></a></li>
+            <li class="facebook animated bounceIn wow delay-05s"><a href="game/pacman/index.html"><i class="fa-gamepad"></i></a></li>
+			</ul>
+
+
+
+
+<h1>Fitur Tambahan 2</h1>
+			<ul class="social-link">
+            <li class="gplus animated bounceIn wow delay-07s"><a href="game//index.html"><i class="fa-google-plus"></i></a></li>			
+			<li class="twitter animated bounceIn wow delay-08s"><a href="game//index.html"><i class="fa-twitter"></i></a></li>
+            <li class="facebook animated bounceIn wow delay-09s"><a href="game//index.html"><i class="fa-facebook"></i></a></li>
+            <li class="gplus animated bounceIn wow delay-1s"><a href="game//index.html"><i class="fa-google-plus"></i></a></li>
+            <li class="twitter animated bounceIn wow delay-06s"><a href="game//index.html"><i class="fa-facebook"></i></a></li>
+          </ul> 
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				<?php
+		mysql_connect("localhost","root","");
+		mysql_select_db("ptgranesia");
+		
+		$sql=mysql_query("SELECT * FROM resensi");
+		$no=1;
+		while($data=mysql_fetch_array($sql)){
+		?>
+		<tr>
+			<td align="center"><?php echo $no++; ?>.</td>
+			<td><?php echo $data['Judul'] ?></td>
+			<td><?php echo $data['ket'] ?></td>
+		</tr>
+		<?php
+		}
+		?>
+		
+		  Bermula dari sebuah unit pendukung produksi penerbitan Harian Umum Pikiran Rakyat, 
+		Bandung, PT. GRANESIA telah berkembang menjadi suatu badan usaha bisnis, 
+		yang bergerak dalam bidang jasa Percetakan dan Penerbitan. Sebagai suatu badan usaha bisnis,
+		PT. GRANESIA tentunya menyadari mengenai kesiapan untuk bersaing dengan perusahaan sejenis, 
+		untuk itu Kami senantiasa terus menerus "melihat ke depan" mengikuti sekaligus mengaplikasikan 
+		apa yang sedang berkembang di dunia grafika. Peningkatan kualitas sumber daya manusia maupun teknologi
+		industri Grafika menjadi bagian tak terpisahkan dari pengembangan PT. GRANESIA selama ini dapat dan akan
+		terus berkesinambungan selama PT. GRANESIA masih berdiri di tengah-tengah masyarakat yang membutuhkan jasa Percetakan dan Penerbita
+		
+		
+		
+		
+		
+		
+		VISI
+
+Menjadi Perusahaan Percetakan yang terbesar di Jawa Barat dari sisi kualitas, tata kelola, dan pelayanan
+
+MISI
+
+1. Menjadi Perusahaan Percetakan yang melayani kebutuhan cetak Pikiran Rakyat Grup.
+2. Menjadi Perusahaan Percetakan & Penerbitan terbaik dari sisi Pelayanan Konsumen dan Kualitas.
+3. Menjadi perusahaan Percetakan Komersial yang disegani di Bandung, Jawa Barat, & Nasional.
+4. Menjadi perusahan yang akan mengikuti perkembangan teknologi, khususnya teknologi grafika.
+5. Menjadi perusahaan yang memiliki Sumber Daya Manusia yang potensial dari sisi pengetahuan & pendidikan, kemampuan, moral, etika, dan tanggung jawab.
+6. Memberikan Pelayanan akan kebutuhan cetakan Pikiran Rakyat Grup.
+7. Memberikan pelayanan yang baik kepada seluruh konsumen, dengan menjaga kualitas dan kuantitas cetakan yang baik dan konsisten.
+8. Memunculkan Brand Awareness, baik dikalangan internal maupun eksternal perusahaan.
+9. Memberikan kesejahteraan kepada seluruh karyawan dan pemilik saham.
+10. Melakukan inovasi di segala bidang secara konsisten dan terus menerus.
+
+GRANESIA CORE VALUES
+
+1. Bekerja dengan dasar integritas yang tinggi (Integrity).
+2. Bekerja Dengan Rasa Saling Persaudaraan Yang Bertanggung Jawab (Responsibility Relationship).
+3. Selalu siap menghadapi perubahan, baik intern maupun ekstern (Adaptability).
+4. Selalu Fokus Kepada Konsumen (Customer Focus).
+5. Proses Pembelajaran Yang Berkesinambungan (Continues Learning).
+6. Bekerja Dengan Menjunjung Tinggi Kejujuran (Honesty).
+7. Energik Dan Bersemangat Tinggi Di Dalam Menghadapi Setiap Tantangan (Enthusiasm).
+8. Mampu Memotivasi Diri Sendiri Serta Rekan-Rekan Sekerja dan Lingkungan Untuk Mencapai Visi PT.Granesia (Influence).
+9. Selalu Fokus Kepada Implementasi, Tindak Lanjut Serta Pencapaian Hasil- Hasil Guna Memberikan Nilai Tambah dan kontribusi Kepada PT.Granesia (Action). 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<?php
+session_start();
+/**
+ * Jika Tidak login atau sudah login tapi bukan sebagai admin
+ * maka akan dibawa kembali kehalaman login atau menuju halaman yang seharusnya.
+ */
+if ( !isset($_SESSION['user_login']) || 
+    ( isset($_SESSION['user_login']) && $_SESSION['user_login'] != 'admin' ) ) {
+
+	header('location:./../login.php');
+	exit();
+}
+?>
+<h2>Hallo Admin <?=$_SESSION['nama'];?> Apakabar ?</h2>
+
+<a href="./../logout.php">Logout</a>
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
